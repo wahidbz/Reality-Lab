@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#04060d"/>
+  <circle cx="32" cy="32" r="21" fill="none" stroke="#2b6cff" stroke-width="2" stroke-dasharray="90 20" opacity="0.9"/>
+  <circle cx="32" cy="32" r="13" fill="none" stroke="#38d9ff" stroke-width="2" opacity="0.75"/>
+  <circle cx="53" cy="32" r="3.4" fill="#4d8bff"/>
+  <text x="32" y="41" text-anchor="middle" font-family="Inter,Arial" font-size="20" font-weight="700" fill="#ffffff">RL</text>
+</svg>
